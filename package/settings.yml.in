@@ -1,0 +1,12 @@
+name: Literary Clock
+strategy: static
+refresh_interval: 15
+no_screen_padding: 'no'
+dark_mode: 'no'
+static_data: |-
+  __STATIC_DATA__
+custom_fields:
+  - keyname: about
+    field_type: author_bio
+    name: About This Plugin
+    description: A self-contained literary clock with 3,467 safe or unrated quotations adapted from <a href="https://github.com/cdmoro/literature-clock">cdmoro/literature-clock</a>. No external server or API key is required. Built by Alex Southwell.

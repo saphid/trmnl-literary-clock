@@ -1,0 +1,28 @@
+{% liquid
+  assign local_epoch = "now" | date: "%s" | plus: trmnl.user.utc_offset
+  assign display_time = local_epoch | date: "%-I:%M %p"
+  assign minute_key = local_epoch | date: "%H%M"
+  assign quote_time_key = minute_key
+  assign choices = quotes[quote_time_key]
+
+  unless choices
+    assign quote_time_key = nearest[minute_key]
+    assign choices = quotes[quote_time_key]
+  endunless
+
+  assign quote_seed = local_epoch | date: "%Y%j%H%M"
+  assign quote_index = quote_seed | modulo: choices.size
+  assign quote = choices[quote_index]
+  assign quote_before = quote[0]
+  assign time_phrase = quote[1]
+  assign quote_after = quote[2]
+  assign title = quote[3]
+  assign author = quote[4]
+  assign quote_hour = quote_time_key | slice: 0, 2
+  assign quote_minute = quote_time_key | slice: 2, 2
+  assign quote_time = quote_hour | append: ":" | append: quote_minute
+  assign exact_match = false
+  if minute_key == quote_time_key
+    assign exact_match = true
+  endif
+%}

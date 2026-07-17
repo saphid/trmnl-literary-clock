@@ -1,0 +1,18 @@
+<div class="layout layout--col gap--space-between">
+  <div class="title_bar">
+    <span class="title">Literary Clock</span>
+    <span class="instance">{{ display_time }}</span>
+  </div>
+
+  <div class="flex flex--center-x flex--center-y grow">
+    <div class="text--center">
+      <div class="value value--xlarge text--black text--bold">{{ time_phrase }}</div>
+      <div class="description clamp--3 px--2">{{ quote_before }}{{ time_phrase }}{{ quote_after }}</div>
+    </div>
+  </div>
+
+  <div class="px--2 pb--2">
+    <div class="label text--black">{{ title }}</div>
+    <div class="description">{{ author }}</div>
+  </div>
+</div>

@@ -1,0 +1,26 @@
+{% assign quote_length = quote_before.size | plus: time_phrase.size | plus: quote_after.size %}
+{% if quote_length > 300 %}
+  {% assign quote_size = "value--small" %}
+{% elsif quote_length > 170 %}
+  {% assign quote_size = "value--medium" %}
+{% else %}
+  {% assign quote_size = "value--large" %}
+{% endif %}
+
+<div class="layout layout--col gap--space-between">
+  <div class="title_bar">
+    <span class="title">Literary Clock</span>
+    <span class="instance">{{ display_time }}</span>
+  </div>
+
+  <div class="flex flex--center-x flex--center-y grow px--3">
+    <div class="text--center">
+      <span class="value {{ quote_size }} text--gray-4">{{ quote_before }}</span><span class="value {{ quote_size }} text--black text--bold">{{ time_phrase }}</span><span class="value {{ quote_size }} text--gray-4">{{ quote_after }}</span>
+    </div>
+  </div>
+
+  <div class="px--3 pb--3">
+    <span class="label text--black">{{ title }}</span>
+    <span class="description"> · {{ author }}</span>
+  </div>
+</div>

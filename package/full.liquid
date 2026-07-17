@@ -1,0 +1,30 @@
+{% assign quote_length = quote_before.size | plus: time_phrase.size | plus: quote_after.size %}
+{% if quote_length > 320 %}
+  {% assign quote_size = "value--small" %}
+{% elsif quote_length > 160 %}
+  {% assign quote_size = "value--medium" %}
+{% elsif quote_length > 90 %}
+  {% assign quote_size = "value--large" %}
+{% else %}
+  {% assign quote_size = "value--xlarge" %}
+{% endif %}
+
+<div class="layout layout--col gap--space-between">
+  <div class="title_bar">
+    <span class="title">Literary Clock</span>
+    <span class="instance">
+      {{ display_time }}{% unless exact_match %} · nearest safe quote {{ quote_time }}{% endunless %}
+    </span>
+  </div>
+
+  <div class="flex flex--center-x flex--center-y grow px--4">
+    <div class="text--center">
+      <span class="value {{ quote_size }} text--gray-4">{{ quote_before }}</span><span class="value {{ quote_size }} text--black text--bold">{{ time_phrase }}</span><span class="value {{ quote_size }} text--gray-4">{{ quote_after }}</span>
+    </div>
+  </div>
+
+  <div class="px--4 pb--4">
+    <div class="label label--large text--black">{{ title }}</div>
+    <div class="description">{{ author }}</div>
+  </div>
+</div>
