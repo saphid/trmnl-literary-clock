@@ -1,0 +1,9 @@
+<div class="px--3 pb--3">
+  {% if compact_footer %}
+    <span class="label text--black">{{ title }}</span>
+    <span class="description"> · {{ author }}{% unless selected_genre == "a" %} · {{ genre_name }}{% endunless %}</span>
+  {% else %}
+    <div class="label text--black">{{ title }}</div>
+    <div class="description">{{ author }}{% unless selected_genre == "a" %} · {{ genre_name }}{% endunless %}</div>
+  {% endif %}
+</div>

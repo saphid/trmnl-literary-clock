@@ -1,28 +1,61 @@
 {% liquid
   assign local_epoch = "now" | date: "%s" | plus: trmnl.user.utc_offset
   assign display_time = local_epoch | date: "%-I:%M %p"
-  assign minute_key = local_epoch | date: "%H%M"
-  assign quote_time_key = minute_key
-  assign choices = quotes[quote_time_key]
+  assign local_hour = local_epoch | date: "%H" | plus: 0
+  assign local_minute = local_epoch | date: "%M" | plus: 0
+  assign target_minute = local_hour | times: 60 | plus: local_minute
+  assign selected_genre = trmnl.plugin_settings.custom_fields_values.genre | default: "a"
+  assign genre_name = genre_names[selected_genre] | default: "Selected genre"
+  assign source_minutes = nearest[selected_genre]
+  assign quote = nil
 
-  unless choices
-    assign quote_time_key = nearest[minute_key]
-    assign choices = quotes[quote_time_key]
-  endunless
+  if source_minutes
+    assign source_minute = source_minutes[target_minute]
+    assign choices = minutes[source_minute]
+    assign quote_seed = local_epoch | date: "%Y%j%H%M"
+    assign start_index = quote_seed | modulo: choices.size
+    assign last_choice = choices.size | minus: 1
+    for offset in (0..last_choice)
+      assign candidate_index = start_index | plus: offset | modulo: choices.size
+      assign candidate_id = choices[candidate_index]
+      assign candidate_genres = quote_genres[candidate_id]
+      if selected_genre == "a" or candidate_genres contains selected_genre
+        assign quote = quotes[candidate_id]
+        break
+      endif
+    endfor
+  endif
 
-  assign quote_seed = local_epoch | date: "%Y%j%H%M"
-  assign quote_index = quote_seed | modulo: choices.size
-  assign quote = choices[quote_index]
-  assign quote_before = quote[0]
-  assign time_phrase = quote[1]
-  assign quote_after = quote[2]
-  assign title = quote[3]
-  assign author = quote[4]
-  assign quote_hour = quote_time_key | slice: 0, 2
-  assign quote_minute = quote_time_key | slice: 2, 2
-  assign quote_time = quote_hour | append: ":" | append: quote_minute
-  assign exact_match = false
-  if minute_key == quote_time_key
+  if quote
+    assign quote_before = quote[0]
+    assign time_phrase = quote[1]
+    assign quote_after = quote[2]
+    assign title = titles[quote[3]]
+    assign author = authors[quote[4]]
+    assign quote_hour = source_minute | divided_by: 60
+    assign quote_minute = source_minute | modulo: 60
+    capture quote_time
+      if quote_hour < 10
+        echo "0"
+      endif
+      echo quote_hour
+      echo ":"
+      if quote_minute < 10
+        echo "0"
+      endif
+      echo quote_minute
+    endcapture
+    assign exact_match = false
+    if target_minute == source_minute
+      assign exact_match = true
+    endif
+  else
+    assign quote_before = ""
+    assign time_phrase = "No matching quotes"
+    assign quote_after = ""
+    assign title = genre_name
+    assign author = "Choose another book type"
+    assign quote_time = ""
     assign exact_match = true
   endif
 %}

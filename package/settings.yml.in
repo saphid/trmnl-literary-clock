@@ -6,7 +6,14 @@ dark_mode: 'no'
 static_data: |-
   __STATIC_DATA__
 custom_fields:
+  - keyname: genre
+    field_type: select
+    name: Book Type
+    description: Choose the kinds of books used by the clock.
+    options:
+__GENRE_OPTIONS__
+    default: a
   - keyname: about
     field_type: author_bio
     name: About This Plugin
-    description: A self-contained literary clock with 3,467 safe or unrated quotations adapted from <a href="https://github.com/cdmoro/literature-clock">cdmoro/literature-clock</a>. No external server or API key is required. Built by Alex Southwell.
+    description: A self-contained literary clock with 3,467 safe or unrated quotations and selectable book genres. Data adapted from <a href="https://github.com/cdmoro/literature-clock">cdmoro/literature-clock</a>. No external server or API key is required. Built by Alex Southwell.

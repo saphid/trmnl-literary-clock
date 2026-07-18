@@ -9,6 +9,7 @@ DIST="${RECIPE_DIST_DIR:-${PROJECT_ROOT}/dist}"
 ARCHIVE="${DIST}/LITERARY_CLOCK_TRMNL_RECIPE.zip"
 DATA_URL="https://raw.githubusercontent.com/cdmoro/literature-clock/cf83267d0ee007b87f235207be6741c4dc4a7e6e/quotes/quotes.en-US.csv"
 DATA_SHA256="60393706e503a13be9548dc5c8c1d657b2d3be762dcbd906fa35191c575e6ef6"
+GENRES_PATH="${RECIPE_GENRES_PATH:-${ROOT}/book_genres.json}"
 TEMP_DIR="$(mktemp -d -t trmnl-literary-recipe.XXXXXX)"
 trap 'rm -rf "${TEMP_DIR}"' EXIT HUP INT TERM
 
@@ -28,6 +29,7 @@ rm -rf "${STAGE}"
 mkdir -p "${STAGE}" "${DIST}"
 python3 "${ROOT}/build_static_recipe.py" \
     "${DATA_PATH}" \
+    "${GENRES_PATH}" \
     "${SOURCE}" \
     "${STAGE}"
 

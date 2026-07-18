@@ -1,0 +1,1920 @@
+{
+  "books": [
+    {
+      "author": "Charles Dickens",
+      "genres": [
+        "children_ya",
+        "classics"
+      ],
+      "title": "A Christmas Carol"
+    },
+    {
+      "author": "Anthony Burgess",
+      "genres": [
+        "science_fiction"
+      ],
+      "title": "A Clockwork Orange"
+    },
+    {
+      "author": "Mark Twain",
+      "genres": [
+        "children_ya"
+      ],
+      "title": "A Connecticut Yankee in King Arthur’s Court"
+    },
+    {
+      "author": "Amor Towles",
+      "genres": [
+        "historical_fiction",
+        "literary_fiction"
+      ],
+      "title": "A Gentleman in Moscow"
+    },
+    {
+      "author": "William Shakespeare",
+      "genres": [
+        "children_ya",
+        "classics",
+        "fantasy"
+      ],
+      "title": "A Midsummer Night’s Dream"
+    },
+    {
+      "author": "James Joyce",
+      "genres": [
+        "classics"
+      ],
+      "title": "A Portrait of the Artist as a Young Man"
+    },
+    {
+      "author": "Joseph Conrad",
+      "genres": [
+        "classics"
+      ],
+      "title": "A Set of Six"
+    },
+    {
+      "author": "Charles Dickens",
+      "genres": [
+        "children_ya",
+        "classics",
+        "historical_fiction"
+      ],
+      "title": "A Tale of Two Cities"
+    },
+    {
+      "author": "P.D. James",
+      "genres": [
+        "mystery_crime"
+      ],
+      "title": "A Taste for Death"
+    },
+    {
+      "author": "Maggie O’Farrell",
+      "genres": [
+        "romance"
+      ],
+      "title": "After You’d Gone"
+    },
+    {
+      "author": "Thomas Pynchon",
+      "genres": [
+        "historical_fiction"
+      ],
+      "title": "Against the Day"
+    },
+    {
+      "author": "Lewis Carroll",
+      "genres": [
+        "children_ya",
+        "classics",
+        "fantasy",
+        "science_fiction"
+      ],
+      "title": "Alice’s Adventures in Wonderland"
+    },
+    {
+      "author": "Anthony Doerr",
+      "genres": [
+        "historical_fiction"
+      ],
+      "title": "All the Light We Cannot See"
+    },
+    {
+      "author": "Richard K. Morgan",
+      "genres": [
+        "science_fiction"
+      ],
+      "title": "Altered Carbon"
+    },
+    {
+      "author": "Neil Gaiman",
+      "genres": [
+        "fantasy",
+        "science_fiction"
+      ],
+      "title": "American Gods"
+    },
+    {
+      "author": "Bret Easton Ellis",
+      "genres": [
+        "literary_fiction"
+      ],
+      "title": "American Psycho"
+    },
+    {
+      "author": "Margaret Peterson Haddix",
+      "genres": [
+        "science_fiction"
+      ],
+      "title": "Among the Brave"
+    },
+    {
+      "author": "Margaret Peterson Haddix",
+      "genres": [
+        "science_fiction"
+      ],
+      "title": "Among the Free"
+    },
+    {
+      "author": "Margaret Peterson Haddix",
+      "genres": [
+        "children_ya",
+        "science_fiction"
+      ],
+      "title": "Among the Hidden"
+    },
+    {
+      "author": "Oscar Wilde",
+      "genres": [
+        "classics"
+      ],
+      "title": "An Ideal Husband"
+    },
+    {
+      "author": "Julian Barnes",
+      "genres": [
+        "historical_fiction"
+      ],
+      "title": "Arthur and George"
+    },
+    {
+      "author": "William Shakespeare",
+      "genres": [
+        "classics"
+      ],
+      "title": "As You Like It"
+    },
+    {
+      "author": "Kim Stanley Robinson",
+      "genres": [
+        "science_fiction"
+      ],
+      "title": "Aurora"
+    },
+    {
+      "author": "Sinclair Lewis",
+      "genres": [
+        "classics"
+      ],
+      "title": "Babbitt"
+    },
+    {
+      "author": "Herman Melville",
+      "genres": [
+        "classics"
+      ],
+      "title": "Bartleby, the Scrivener"
+    },
+    {
+      "author": "Jeffrey Archer",
+      "genres": [
+        "historical_fiction"
+      ],
+      "title": "Be Careful What You Wish For"
+    },
+    {
+      "author": "Kate Atkinson",
+      "genres": [
+        "historical_fiction"
+      ],
+      "title": "Behind the Scenes at the Museum"
+    },
+    {
+      "author": "Guy de Maupassant",
+      "genres": [
+        "classics",
+        "historical_fiction"
+      ],
+      "title": "Bel-Ami"
+    },
+    {
+      "author": "Lew Wallace",
+      "genres": [
+        "children_ya",
+        "historical_fiction"
+      ],
+      "title": "Ben-Hur"
+    },
+    {
+      "author": "Anna Sewell",
+      "genres": [
+        "children_ya",
+        "classics"
+      ],
+      "title": "Black Beauty"
+    },
+    {
+      "author": "Connie Willis",
+      "genres": [
+        "fantasy",
+        "historical_fiction",
+        "science_fiction"
+      ],
+      "title": "Blackout"
+    },
+    {
+      "author": "Len Deighton",
+      "genres": [
+        "historical_fiction"
+      ],
+      "title": "Bomber"
+    },
+    {
+      "author": "George Orwell",
+      "genres": [
+        "classics"
+      ],
+      "title": "Burmese Days"
+    },
+    {
+      "author": "Rudyard Kipling",
+      "genres": [
+        "children_ya",
+        "classics"
+      ],
+      "title": "Captains Courageous"
+    },
+    {
+      "author": "Stephen King",
+      "genres": [
+        "horror"
+      ],
+      "title": "Carrie"
+    },
+    {
+      "author": "Coco Mellors",
+      "genres": [
+        "romance"
+      ],
+      "title": "Cleopatra and Frankenstein"
+    },
+    {
+      "author": "David Mitchell",
+      "genres": [
+        "fantasy",
+        "historical_fiction",
+        "science_fiction"
+      ],
+      "title": "Cloud Atlas"
+    },
+    {
+      "author": "Michael Crichton",
+      "genres": [
+        "science_fiction"
+      ],
+      "title": "Congo"
+    },
+    {
+      "author": "P.D. James",
+      "genres": [
+        "mystery_crime"
+      ],
+      "title": "Cover Her Face"
+    },
+    {
+      "author": "Roald Dahl",
+      "genres": [
+        "children_ya"
+      ],
+      "title": "Danny, the Champion of the World"
+    },
+    {
+      "author": "James Holland",
+      "genres": [
+        "historical_fiction"
+      ],
+      "title": "Darkest Hour"
+    },
+    {
+      "author": "Charles Dickens",
+      "genres": [
+        "children_ya",
+        "classics",
+        "historical_fiction"
+      ],
+      "title": "David Copperfield"
+    },
+    {
+      "author": "Jim Butcher",
+      "genres": [
+        "fantasy"
+      ],
+      "title": "Death Masks"
+    },
+    {
+      "author": "Agatha Christie",
+      "genres": [
+        "historical_fiction",
+        "romance"
+      ],
+      "title": "Death on the Nile"
+    },
+    {
+      "author": "Thomas Hardy",
+      "genres": [
+        "classics"
+      ],
+      "title": "Desperate Remedies"
+    },
+    {
+      "author": "Douglas Adams",
+      "genres": [
+        "fantasy",
+        "science_fiction"
+      ],
+      "title": "Dirk Gently’s Holistic Detective Agency"
+    },
+    {
+      "author": "Bram Stoker",
+      "genres": [
+        "horror",
+        "science_fiction"
+      ],
+      "title": "Dracula"
+    },
+    {
+      "author": "James Joyce",
+      "genres": [
+        "classics",
+        "literary_fiction"
+      ],
+      "title": "Dubliners"
+    },
+    {
+      "author": "Frank Herbert",
+      "genres": [
+        "science_fiction"
+      ],
+      "title": "Dune"
+    },
+    {
+      "author": "Gail Carson Levine",
+      "genres": [
+        "children_ya",
+        "fantasy"
+      ],
+      "title": "Ella Enchanted"
+    },
+    {
+      "author": "Jane Austen",
+      "genres": [
+        "children_ya",
+        "classics",
+        "historical_fiction",
+        "romance"
+      ],
+      "title": "Emma"
+    },
+    {
+      "author": "Peter F. Hamilton",
+      "genres": [
+        "science_fiction"
+      ],
+      "title": "Fallen Dragon"
+    },
+    {
+      "author": "James Joyce",
+      "genres": [
+        "classics"
+      ],
+      "title": "Finnegans Wake"
+    },
+    {
+      "author": "Darynda Jones",
+      "genres": [
+        "fantasy"
+      ],
+      "title": "First Grave on the Right"
+    },
+    {
+      "author": "Daniel Keyes",
+      "genres": [
+        "children_ya",
+        "science_fiction"
+      ],
+      "title": "Flowers for Algernon"
+    },
+    {
+      "author": "Jim Butcher",
+      "genres": [
+        "fantasy"
+      ],
+      "title": "Fool Moon"
+    },
+    {
+      "author": "Stephen King",
+      "genres": [
+        "horror"
+      ],
+      "title": "From a Buick 8"
+    },
+    {
+      "author": "Stephen King",
+      "genres": [
+        "horror"
+      ],
+      "title": "Full Dark, No Stars"
+    },
+    {
+      "author": "Stephen King",
+      "genres": [
+        "horror"
+      ],
+      "title": "Gerald’s Game"
+    },
+    {
+      "author": "Elmore Leonard",
+      "genres": [
+        "mystery_crime"
+      ],
+      "title": "Get Shorty"
+    },
+    {
+      "author": "Terry Pratchett",
+      "genres": [
+        "fantasy"
+      ],
+      "title": "Going Postal"
+    },
+    {
+      "author": "Thomas Pynchon",
+      "genres": [
+        "science_fiction"
+      ],
+      "title": "Gravity’s Rainbow"
+    },
+    {
+      "author": "Charles Dickens",
+      "genres": [
+        "classics"
+      ],
+      "title": "Great Expectations"
+    },
+    {
+      "author": "Alistair MacLean",
+      "genres": [
+        "historical_fiction"
+      ],
+      "title": "H.M.S. Ulysses"
+    },
+    {
+      "author": "William Shakespeare",
+      "genres": [
+        "children_ya",
+        "classics"
+      ],
+      "title": "Hamlet"
+    },
+    {
+      "author": "J.K. Rowling",
+      "genres": [
+        "children_ya",
+        "fantasy"
+      ],
+      "title": "Harry Potter and the Chamber of Secrets"
+    },
+    {
+      "author": "J.K. Rowling",
+      "genres": [
+        "children_ya",
+        "fantasy"
+      ],
+      "title": "Harry Potter and the Deathly Hallows"
+    },
+    {
+      "author": "J.K. Rowling",
+      "genres": [
+        "children_ya",
+        "fantasy"
+      ],
+      "title": "Harry Potter and the Half-Blood Prince"
+    },
+    {
+      "author": "J.K. Rowling",
+      "genres": [
+        "children_ya",
+        "fantasy"
+      ],
+      "title": "Harry Potter and the Order of the Phoenix"
+    },
+    {
+      "author": "J.K. Rowling",
+      "genres": [
+        "children_ya",
+        "fantasy"
+      ],
+      "title": "Harry Potter and the Prisoner of Azkaban"
+    },
+    {
+      "author": "Thomas Rockwell",
+      "genres": [
+        "children_ya"
+      ],
+      "title": "How to Eat Fried Worms"
+    },
+    {
+      "author": "Stephen King",
+      "genres": [
+        "fantasy",
+        "horror"
+      ],
+      "title": "If It Bleeds"
+    },
+    {
+      "author": "Truman Capote",
+      "genres": [
+        "romance"
+      ],
+      "title": "In Cold Blood"
+    },
+    {
+      "author": "P.D. James",
+      "genres": [
+        "mystery_crime"
+      ],
+      "title": "Innocent Blood"
+    },
+    {
+      "author": "Stephen King",
+      "genres": [
+        "horror"
+      ],
+      "title": "Insomnia"
+    },
+    {
+      "author": "Stephen King",
+      "genres": [
+        "horror"
+      ],
+      "title": "It"
+    },
+    {
+      "author": "Julian May",
+      "genres": [
+        "science_fiction"
+      ],
+      "title": "Jack the Bodiless"
+    },
+    {
+      "author": "Charlotte Brontë",
+      "genres": [
+        "children_ya",
+        "classics",
+        "romance"
+      ],
+      "title": "Jane Eyre"
+    },
+    {
+      "author": "P.G. Wodehouse",
+      "genres": [
+        "classics"
+      ],
+      "title": "Jeeves and the Feudal Spirit"
+    },
+    {
+      "author": "Terry Pratchett",
+      "genres": [
+        "fantasy"
+      ],
+      "title": "Jingo"
+    },
+    {
+      "author": "Terry Pratchett",
+      "genres": [
+        "children_ya",
+        "science_fiction"
+      ],
+      "title": "Johnny and the Bomb"
+    },
+    {
+      "author": "Thomas Hardy",
+      "genres": [
+        "romance"
+      ],
+      "title": "Jude the Obscure"
+    },
+    {
+      "author": "Michael Crichton",
+      "genres": [
+        "children_ya",
+        "science_fiction"
+      ],
+      "title": "Jurassic Park"
+    },
+    {
+      "author": "Jeffrey Archer",
+      "genres": [
+        "historical_fiction"
+      ],
+      "title": "Kane & Abel"
+    },
+    {
+      "author": "Mary Elizabeth Braddon",
+      "genres": [
+        "classics"
+      ],
+      "title": "Lady Audley’s Secret"
+    },
+    {
+      "author": "Roald Dahl",
+      "genres": [
+        "horror"
+      ],
+      "title": "Lamb to the Slaughter"
+    },
+    {
+      "author": "Théophile Gautier",
+      "genres": [
+        "classics"
+      ],
+      "title": "Le Club des Hachichins"
+    },
+    {
+      "author": "Victor Hugo",
+      "genres": [
+        "classics",
+        "historical_fiction"
+      ],
+      "title": "Les Misérables"
+    },
+    {
+      "author": "Douglas Adams",
+      "genres": [
+        "fantasy",
+        "science_fiction"
+      ],
+      "title": "Life, the Universe and Everything"
+    },
+    {
+      "author": "Maeve Binchy",
+      "genres": [
+        "children_ya",
+        "romance"
+      ],
+      "title": "Light a Penny Candle"
+    },
+    {
+      "author": "Louisa May Alcott",
+      "genres": [
+        "children_ya",
+        "historical_fiction",
+        "romance"
+      ],
+      "title": "Little Women"
+    },
+    {
+      "author": "John Green",
+      "genres": [
+        "children_ya"
+      ],
+      "title": "Looking for Alaska"
+    },
+    {
+      "author": "Nancy Mitford",
+      "genres": [
+        "classics"
+      ],
+      "title": "Love in a Cold Climate"
+    },
+    {
+      "author": "Gustave Flaubert",
+      "genres": [
+        "classics",
+        "literary_fiction"
+      ],
+      "title": "Madame Bovary"
+    },
+    {
+      "author": "Sinclair Lewis",
+      "genres": [
+        "classics"
+      ],
+      "title": "Main Street"
+    },
+    {
+      "author": "Thomas Pynchon",
+      "genres": [
+        "historical_fiction"
+      ],
+      "title": "Mason & Dixon"
+    },
+    {
+      "author": "Muriel Spark",
+      "genres": [
+        "literary_fiction"
+      ],
+      "title": "Memento Mori"
+    },
+    {
+      "author": "Franz Kafka",
+      "genres": [
+        "classics"
+      ],
+      "title": "Metamorphosis"
+    },
+    {
+      "author": "Jules Verne",
+      "genres": [
+        "classics",
+        "historical_fiction"
+      ],
+      "title": "Michel Strogoff"
+    },
+    {
+      "author": "George Eliot",
+      "genres": [
+        "classics"
+      ],
+      "title": "Middlemarch"
+    },
+    {
+      "author": "Salman Rushdie",
+      "genres": [
+        "literary_fiction"
+      ],
+      "title": "Midnight’s Children"
+    },
+    {
+      "author": "Jeffrey Archer",
+      "genres": [
+        "historical_fiction"
+      ],
+      "title": "Mightier Than the Sword"
+    },
+    {
+      "author": "Virginia Woolf",
+      "genres": [
+        "classics"
+      ],
+      "title": "Mrs. Dalloway"
+    },
+    {
+      "author": "Agatha Christie",
+      "genres": [
+        "children_ya"
+      ],
+      "title": "Murder on the Orient Express"
+    },
+    {
+      "author": "Gordon R. Dickson",
+      "genres": [
+        "science_fiction"
+      ],
+      "title": "Necromancer"
+    },
+    {
+      "author": "William Gibson",
+      "genres": [
+        "science_fiction"
+      ],
+      "title": "Neuromancer"
+    },
+    {
+      "author": "Kazuo Ishiguro",
+      "genres": [
+        "science_fiction"
+      ],
+      "title": "Never Let Me Go"
+    },
+    {
+      "author": "Stephenie Meyer",
+      "genres": [
+        "children_ya",
+        "fantasy",
+        "romance"
+      ],
+      "title": "New Moon"
+    },
+    {
+      "author": "Wilkie Collins",
+      "genres": [
+        "classics"
+      ],
+      "title": "No Name"
+    },
+    {
+      "author": "Jane Austen",
+      "genres": [
+        "romance"
+      ],
+      "title": "Northanger Abbey"
+    },
+    {
+      "author": "Gilbert Parker",
+      "genres": [
+        "classics"
+      ],
+      "title": "Northern Lights"
+    },
+    {
+      "author": "John Steinbeck",
+      "genres": [
+        "classics",
+        "historical_fiction",
+        "literary_fiction"
+      ],
+      "title": "Of Mice And Men"
+    },
+    {
+      "author": "Charles Dickens",
+      "genres": [
+        "children_ya",
+        "historical_fiction"
+      ],
+      "title": "Oliver Twist"
+    },
+    {
+      "author": "Jack Kerouac",
+      "genres": [
+        "classics"
+      ],
+      "title": "On the Road"
+    },
+    {
+      "author": "Ken Kesey",
+      "genres": [
+        "classics"
+      ],
+      "title": "One Flew Over the Cuckoo’s Nest"
+    },
+    {
+      "author": "Jeffrey Archer",
+      "genres": [
+        "historical_fiction"
+      ],
+      "title": "Only Time Will Tell"
+    },
+    {
+      "author": "Virginia Woolf",
+      "genres": [
+        "historical_fiction"
+      ],
+      "title": "Orlando"
+    },
+    {
+      "author": "Margaret Atwood",
+      "genres": [
+        "fantasy",
+        "literary_fiction",
+        "romance",
+        "science_fiction"
+      ],
+      "title": "Oryx and Crake"
+    },
+    {
+      "author": "Jeffrey Archer",
+      "genres": [
+        "historical_fiction"
+      ],
+      "title": "Paths of Glory"
+    },
+    {
+      "author": "C.S. Lewis",
+      "genres": [
+        "science_fiction"
+      ],
+      "title": "Perelandra"
+    },
+    {
+      "author": "Joan Didion",
+      "genres": [
+        "literary_fiction"
+      ],
+      "title": "Play It as It Lays"
+    },
+    {
+      "author": "Charles Bukowski",
+      "genres": [
+        "classics"
+      ],
+      "title": "Post Office"
+    },
+    {
+      "author": "Jane Austen",
+      "genres": [
+        "children_ya",
+        "historical_fiction",
+        "literary_fiction",
+        "romance"
+      ],
+      "title": "Pride and Prejudice"
+    },
+    {
+      "author": "C.S. Lewis",
+      "genres": [
+        "children_ya",
+        "fantasy"
+      ],
+      "title": "Prince Caspian"
+    },
+    {
+      "author": "Terry Pratchett",
+      "genres": [
+        "fantasy"
+      ],
+      "title": "Raising Steam"
+    },
+    {
+      "author": "Ernest Cline",
+      "genres": [
+        "science_fiction"
+      ],
+      "title": "Ready Player One"
+    },
+    {
+      "author": "Ernest Cline",
+      "genres": [
+        "science_fiction"
+      ],
+      "title": "Ready Player Two"
+    },
+    {
+      "author": "William Shakespeare",
+      "genres": [
+        "children_ya",
+        "classics"
+      ],
+      "title": "Richard III"
+    },
+    {
+      "author": "O. Henry",
+      "genres": [
+        "classics"
+      ],
+      "title": "Roads of Destiny"
+    },
+    {
+      "author": "Emma Donoghue",
+      "genres": [
+        "literary_fiction"
+      ],
+      "title": "Room"
+    },
+    {
+      "author": "Alan Campbell",
+      "genres": [
+        "fantasy"
+      ],
+      "title": "Scar Night"
+    },
+    {
+      "author": "Jane Austen",
+      "genres": [
+        "classics",
+        "romance"
+      ],
+      "title": "Sense and Sensibility"
+    },
+    {
+      "author": "Bernard Cornwell",
+      "genres": [
+        "historical_fiction"
+      ],
+      "title": "Sharpe’s Revenge"
+    },
+    {
+      "author": "George Eliot",
+      "genres": [
+        "classics"
+      ],
+      "title": "Silas Marner"
+    },
+    {
+      "author": "Jim Butcher",
+      "genres": [
+        "fantasy"
+      ],
+      "title": "Small Favor"
+    },
+    {
+      "author": "Douglas Adams",
+      "genres": [
+        "science_fiction"
+      ],
+      "title": "So Long, and Thanks for All the Fish"
+    },
+    {
+      "author": "Kristina McMorris",
+      "genres": [
+        "historical_fiction"
+      ],
+      "title": "Sold on a Monday"
+    },
+    {
+      "author": "Ray Bradbury",
+      "genres": [
+        "fantasy",
+        "horror",
+        "science_fiction"
+      ],
+      "title": "Something Wicked This Way Comes"
+    },
+    {
+      "author": "D.H. Lawrence",
+      "genres": [
+        "classics"
+      ],
+      "title": "Sons and Lovers"
+    },
+    {
+      "author": "Jim Butcher",
+      "genres": [
+        "children_ya",
+        "fantasy",
+        "science_fiction"
+      ],
+      "title": "Storm Front"
+    },
+    {
+      "author": "P.G. Wodehouse",
+      "genres": [
+        "classics"
+      ],
+      "title": "Summer Lightning"
+    },
+    {
+      "author": "Thomas Hardy",
+      "genres": [
+        "classics"
+      ],
+      "title": "Tess of the d’Urbervilles"
+    },
+    {
+      "author": "James Thurber",
+      "genres": [
+        "children_ya"
+      ],
+      "title": "The 13 Clocks"
+    },
+    {
+      "author": "Ali Smith",
+      "genres": [
+        "literary_fiction"
+      ],
+      "title": "The Accidental"
+    },
+    {
+      "author": "E.W. Hornung",
+      "genres": [
+        "classics"
+      ],
+      "title": "The Amateur Cracksman"
+    },
+    {
+      "author": "Michael Crichton",
+      "genres": [
+        "science_fiction"
+      ],
+      "title": "The Andromeda Strain"
+    },
+    {
+      "author": "Raymond Chandler",
+      "genres": [
+        "mystery_crime"
+      ],
+      "title": "The Big Sleep"
+    },
+    {
+      "author": "David Mitchell",
+      "genres": [
+        "fantasy",
+        "science_fiction"
+      ],
+      "title": "The Bone Clocks"
+    },
+    {
+      "author": "Henry James",
+      "genres": [
+        "classics",
+        "historical_fiction"
+      ],
+      "title": "The Bostonians"
+    },
+    {
+      "author": "P.D. James",
+      "genres": [
+        "science_fiction"
+      ],
+      "title": "The Children of Men"
+    },
+    {
+      "author": "Dave Eggers",
+      "genres": [
+        "literary_fiction"
+      ],
+      "title": "The Circle"
+    },
+    {
+      "author": "Mark Haddon",
+      "genres": [
+        "children_ya",
+        "mystery_crime"
+      ],
+      "title": "The Curious Incident of the Dog in the Night-Time"
+    },
+    {
+      "author": "John Wyndham",
+      "genres": [
+        "classics",
+        "horror",
+        "science_fiction"
+      ],
+      "title": "The Day of the Triffids"
+    },
+    {
+      "author": "Alfred Bester",
+      "genres": [
+        "science_fiction"
+      ],
+      "title": "The Demolished Man"
+    },
+    {
+      "author": "Edgar Allan Poe",
+      "genres": [
+        "children_ya"
+      ],
+      "title": "The Devil in the Belfry"
+    },
+    {
+      "author": "R. Austin Freeman",
+      "genres": [
+        "classics"
+      ],
+      "title": "The Eye of Osiris"
+    },
+    {
+      "author": "John Green",
+      "genres": [
+        "children_ya",
+        "romance"
+      ],
+      "title": "The Fault in Our Stars"
+    },
+    {
+      "author": "J.R.R. Tolkien",
+      "genres": [
+        "fantasy"
+      ],
+      "title": "The Fellowship of the Ring"
+    },
+    {
+      "author": "Rex Stout",
+      "genres": [
+        "mystery_crime"
+      ],
+      "title": "The Final Deduction"
+    },
+    {
+      "author": "Arthur C. Clarke",
+      "genres": [
+        "science_fiction"
+      ],
+      "title": "The Fountains of Paradise"
+    },
+    {
+      "author": "O. Henry",
+      "genres": [
+        "children_ya",
+        "classics"
+      ],
+      "title": "The Four Million"
+    },
+    {
+      "author": "Philip K Dick",
+      "genres": [
+        "science_fiction"
+      ],
+      "title": "The Game Players of Titan"
+    },
+    {
+      "author": "Arundhati Roy",
+      "genres": [
+        "literary_fiction",
+        "romance"
+      ],
+      "title": "The God of Small Things"
+    },
+    {
+      "author": "F. Scott Fitzgerald",
+      "genres": [
+        "romance"
+      ],
+      "title": "The Great Gatsby"
+    },
+    {
+      "author": "Michael Crichton",
+      "genres": [
+        "historical_fiction"
+      ],
+      "title": "The Great Train Robbery"
+    },
+    {
+      "author": "Stephen King",
+      "genres": [
+        "horror",
+        "mystery_crime"
+      ],
+      "title": "The Green Mile"
+    },
+    {
+      "author": "Lee Child",
+      "genres": [
+        "science_fiction"
+      ],
+      "title": "The Hard Way"
+    },
+    {
+      "author": "Margaret Atwood",
+      "genres": [
+        "science_fiction"
+      ],
+      "title": "The Heart Goes Last"
+    },
+    {
+      "author": "Elizabeth Kostova",
+      "genres": [
+        "historical_fiction"
+      ],
+      "title": "The Historian"
+    },
+    {
+      "author": "J.R.R. Tolkien",
+      "genres": [
+        "children_ya",
+        "fantasy"
+      ],
+      "title": "The Hobbit"
+    },
+    {
+      "author": "Carsten Stroud",
+      "genres": [
+        "horror"
+      ],
+      "title": "The Homecoming"
+    },
+    {
+      "author": "C.S. Lewis",
+      "genres": [
+        "children_ya",
+        "fantasy"
+      ],
+      "title": "The Horse and His Boy"
+    },
+    {
+      "author": "Michael Cunningham",
+      "genres": [
+        "romance"
+      ],
+      "title": "The Hours"
+    },
+    {
+      "author": "A.A. Milne",
+      "genres": [
+        "children_ya"
+      ],
+      "title": "The House at Pooh Corner"
+    },
+    {
+      "author": "Nancy Farmer",
+      "genres": [
+        "science_fiction"
+      ],
+      "title": "The House of the Scorpion"
+    },
+    {
+      "author": "Oscar Wilde",
+      "genres": [
+        "classics"
+      ],
+      "title": "The Importance of Being Earnest"
+    },
+    {
+      "author": "Anthony Trollope",
+      "genres": [
+        "classics",
+        "romance"
+      ],
+      "title": "The Last Chronicle of Barset"
+    },
+    {
+      "author": "Wilkie Collins",
+      "genres": [
+        "classics"
+      ],
+      "title": "The Law and the Lady"
+    },
+    {
+      "author": "Laurence Sterne",
+      "genres": [
+        "classics"
+      ],
+      "title": "The Life and Opinions of Tristram Shandy, Gentleman"
+    },
+    {
+      "author": "P.G. Wodehouse",
+      "genres": [
+        "classics"
+      ],
+      "title": "The Little Nugget"
+    },
+    {
+      "author": "Douglas Adams",
+      "genres": [
+        "science_fiction"
+      ],
+      "title": "The Long Dark Tea-Time of the Soul"
+    },
+    {
+      "author": "M.P. Shiel",
+      "genres": [
+        "classics"
+      ],
+      "title": "The Lord of the Sea"
+    },
+    {
+      "author": "Dan Brown",
+      "genres": [
+        "historical_fiction"
+      ],
+      "title": "The Lost Symbol"
+    },
+    {
+      "author": "Ali Hazelwood",
+      "genres": [
+        "romance"
+      ],
+      "title": "The Love Hypothesis"
+    },
+    {
+      "author": "Hollis Godfrey",
+      "genres": [
+        "science_fiction"
+      ],
+      "title": "The Man Who Ended War"
+    },
+    {
+      "author": "Andy Weir",
+      "genres": [
+        "science_fiction"
+      ],
+      "title": "The Martian"
+    },
+    {
+      "author": "Aminatta Forna",
+      "genres": [
+        "literary_fiction"
+      ],
+      "title": "The Memory of Love"
+    },
+    {
+      "author": "Wilkie Collins",
+      "genres": [
+        "classics",
+        "mystery_crime",
+        "romance"
+      ],
+      "title": "The Moonstone"
+    },
+    {
+      "author": "Edgar Rice Burroughs",
+      "genres": [
+        "classics"
+      ],
+      "title": "The Mucker"
+    },
+    {
+      "author": "Agatha Christie",
+      "genres": [
+        "historical_fiction"
+      ],
+      "title": "The Murder of Roger Ackroyd"
+    },
+    {
+      "author": "Charles Dickens",
+      "genres": [
+        "classics"
+      ],
+      "title": "The Mystery of Edwin Drood"
+    },
+    {
+      "author": "Paul Auster",
+      "genres": [
+        "classics"
+      ],
+      "title": "The New York Trilogy"
+    },
+    {
+      "author": "Charles Dickens",
+      "genres": [
+        "classics"
+      ],
+      "title": "The Old Curiosity Shop"
+    },
+    {
+      "author": "Arnold Bennett",
+      "genres": [
+        "classics"
+      ],
+      "title": "The Old Wives’ Tale"
+    },
+    {
+      "author": "Eric Jerome Dickey",
+      "genres": [
+        "romance"
+      ],
+      "title": "The Other Woman"
+    },
+    {
+      "author": "L.E. Modesitt Jr.",
+      "genres": [
+        "fantasy"
+      ],
+      "title": "The Parafaith War"
+    },
+    {
+      "author": "Justin Cronin",
+      "genres": [
+        "fantasy",
+        "horror",
+        "literary_fiction",
+        "science_fiction"
+      ],
+      "title": "The Passage"
+    },
+    {
+      "author": "Norton Juster",
+      "genres": [
+        "children_ya",
+        "fantasy"
+      ],
+      "title": "The Phantom Tollbooth"
+    },
+    {
+      "author": "Gaston Leroux",
+      "genres": [
+        "classics"
+      ],
+      "title": "The Phantom of the Opera"
+    },
+    {
+      "author": "Charles Dickens",
+      "genres": [
+        "classics"
+      ],
+      "title": "The Pickwick Papers"
+    },
+    {
+      "author": "Oscar Wilde",
+      "genres": [
+        "horror"
+      ],
+      "title": "The Picture of Dorian Gray"
+    },
+    {
+      "author": "Henry James",
+      "genres": [
+        "classics",
+        "historical_fiction",
+        "romance"
+      ],
+      "title": "The Portrait of a Lady"
+    },
+    {
+      "author": "Naomi Alderman",
+      "genres": [
+        "science_fiction"
+      ],
+      "title": "The Power"
+    },
+    {
+      "author": "William Goldman",
+      "genres": [
+        "children_ya",
+        "fantasy"
+      ],
+      "title": "The Princess Bride"
+    },
+    {
+      "author": "Brenda Joyce",
+      "genres": [
+        "historical_fiction",
+        "romance"
+      ],
+      "title": "The Prize"
+    },
+    {
+      "author": "M.P. Shiel",
+      "genres": [
+        "classics",
+        "science_fiction"
+      ],
+      "title": "The Purple Cloud"
+    },
+    {
+      "author": "Robert Tressell",
+      "genres": [
+        "classics"
+      ],
+      "title": "The Ragged Trousered Philanthropists"
+    },
+    {
+      "author": "Edith Nesbit",
+      "genres": [
+        "children_ya",
+        "classics"
+      ],
+      "title": "The Railway Children"
+    },
+    {
+      "author": "Edith Wharton",
+      "genres": [
+        "classics"
+      ],
+      "title": "The Reef"
+    },
+    {
+      "author": "Kazuo Ishiguro",
+      "genres": [
+        "historical_fiction"
+      ],
+      "title": "The Remains of the Day"
+    },
+    {
+      "author": "Erskine Childers",
+      "genres": [
+        "classics"
+      ],
+      "title": "The Riddle of the Sands"
+    },
+    {
+      "author": "Cormac McCarthy",
+      "genres": [
+        "literary_fiction"
+      ],
+      "title": "The Road"
+    },
+    {
+      "author": "Graeme Simsion",
+      "genres": [
+        "romance"
+      ],
+      "title": "The Rosie Project"
+    },
+    {
+      "author": "Joseph Conrad",
+      "genres": [
+        "classics",
+        "fantasy",
+        "mystery_crime"
+      ],
+      "title": "The Secret Agent"
+    },
+    {
+      "author": "Sue Townsend",
+      "genres": [
+        "children_ya"
+      ],
+      "title": "The Secret Diary of Adrian Mole Aged 13 3/4"
+    },
+    {
+      "author": "Donna Tartt",
+      "genres": [
+        "literary_fiction"
+      ],
+      "title": "The Secret History"
+    },
+    {
+      "author": "Stephen King",
+      "genres": [
+        "horror"
+      ],
+      "title": "The Shining"
+    },
+    {
+      "author": "C.S. Lewis",
+      "genres": [
+        "children_ya",
+        "fantasy"
+      ],
+      "title": "The Silver Chair"
+    },
+    {
+      "author": "Tanith Lee",
+      "genres": [
+        "science_fiction"
+      ],
+      "title": "The Silver Metal Lover"
+    },
+    {
+      "author": "Stephen King",
+      "genres": [
+        "horror",
+        "science_fiction"
+      ],
+      "title": "The Stand"
+    },
+    {
+      "author": "Ernest Hemingway",
+      "genres": [
+        "historical_fiction"
+      ],
+      "title": "The Sun Also Rises"
+    },
+    {
+      "author": "Jennifer Donnelly",
+      "genres": [
+        "historical_fiction"
+      ],
+      "title": "The Tea Rose"
+    },
+    {
+      "author": "David Mitchell",
+      "genres": [
+        "historical_fiction"
+      ],
+      "title": "The Thousand Autumns of Jacob de Zoet"
+    },
+    {
+      "author": "Audrey Niffenegger",
+      "genres": [
+        "romance",
+        "science_fiction"
+      ],
+      "title": "The Time Traveler’s Wife"
+    },
+    {
+      "author": "Sophie Kinsella",
+      "genres": [
+        "romance"
+      ],
+      "title": "The Undomestic Goddess"
+    },
+    {
+      "author": "J.G. Ballard",
+      "genres": [
+        "science_fiction"
+      ],
+      "title": "The Voices of Time"
+    },
+    {
+      "author": "C.S. Lewis",
+      "genres": [
+        "children_ya",
+        "fantasy"
+      ],
+      "title": "The Voyage of the Dawn Treader"
+    },
+    {
+      "author": "Anthony Trollope",
+      "genres": [
+        "classics"
+      ],
+      "title": "The Warden"
+    },
+    {
+      "author": "T.S. Eliot",
+      "genres": [
+        "classics",
+        "horror"
+      ],
+      "title": "The Waste Land"
+    },
+    {
+      "author": "Eric Linklater",
+      "genres": [
+        "fantasy"
+      ],
+      "title": "The Wind on the Moon"
+    },
+    {
+      "author": "Roald Dahl",
+      "genres": [
+        "children_ya"
+      ],
+      "title": "The Witches"
+    },
+    {
+      "author": "Wilkie Collins",
+      "genres": [
+        "classics",
+        "mystery_crime"
+      ],
+      "title": "The Woman in White"
+    },
+    {
+      "author": "Michael Chabon",
+      "genres": [
+        "literary_fiction"
+      ],
+      "title": "The Yiddish Policemen’s Union"
+    },
+    {
+      "author": "F. Scott Fitzgerald",
+      "genres": [
+        "classics",
+        "romance"
+      ],
+      "title": "This Side of Paradise"
+    },
+    {
+      "author": "P.G. Wodehouse",
+      "genres": [
+        "classics"
+      ],
+      "title": "Three Men and a Maid"
+    },
+    {
+      "author": "Lewis Carroll",
+      "genres": [
+        "children_ya",
+        "classics",
+        "fantasy"
+      ],
+      "title": "Through the Looking Glass"
+    },
+    {
+      "author": "Terry Pratchett",
+      "genres": [
+        "fantasy"
+      ],
+      "title": "Thud!"
+    },
+    {
+      "author": "Mervyn Peake",
+      "genres": [
+        "fantasy"
+      ],
+      "title": "Titus Groan"
+    },
+    {
+      "author": "Harper Lee",
+      "genres": [
+        "children_ya"
+      ],
+      "title": "To Kill a Mockingbird"
+    },
+    {
+      "author": "Jules Verne",
+      "genres": [
+        "classics"
+      ],
+      "title": "Topsy-Turvy"
+    },
+    {
+      "author": "Robert Louis Stevenson",
+      "genres": [
+        "children_ya",
+        "classics",
+        "fantasy",
+        "historical_fiction"
+      ],
+      "title": "Treasure Island"
+    },
+    {
+      "author": "John Green",
+      "genres": [
+        "children_ya"
+      ],
+      "title": "Turtles All the Way Down"
+    },
+    {
+      "author": "James Joyce",
+      "genres": [
+        "classics",
+        "historical_fiction"
+      ],
+      "title": "Ulysses"
+    },
+    {
+      "author": "P.G. Wodehouse",
+      "genres": [
+        "classics"
+      ],
+      "title": "Uncle Fred in the Springtime"
+    },
+    {
+      "author": "Heather Graham",
+      "genres": [
+        "fantasy",
+        "historical_fiction"
+      ],
+      "title": "Unhallowed Ground"
+    },
+    {
+      "author": "Michael Morpurgo",
+      "genres": [
+        "children_ya",
+        "historical_fiction"
+      ],
+      "title": "War Horse"
+    },
+    {
+      "author": "Susan Coolidge",
+      "genres": [
+        "children_ya"
+      ],
+      "title": "What Katy Did"
+    },
+    {
+      "author": "Jim Butcher",
+      "genres": [
+        "fantasy"
+      ],
+      "title": "White Night"
+    },
+    {
+      "author": "Don DeLillo",
+      "genres": [
+        "classics"
+      ],
+      "title": "White Noise"
+    },
+    {
+      "author": "Bernard Cornwell",
+      "genres": [
+        "historical_fiction"
+      ],
+      "title": "Wildtrack"
+    },
+    {
+      "author": "Emily Brontë",
+      "genres": [
+        "children_ya",
+        "classics",
+        "historical_fiction",
+        "romance"
+      ],
+      "title": "Wuthering Heights"
+    }
+  ],
+  "coverage": {
+    "dataset_books": 1491,
+    "genre_book_counts": {
+      "children_ya": 56,
+      "classics": 84,
+      "fantasy": 45,
+      "historical_fiction": 48,
+      "horror": 18,
+      "literary_fiction": 19,
+      "mystery_crime": 11,
+      "romance": 29,
+      "science_fiction": 51
+    },
+    "matched_books": 251,
+    "unmatched_books": 1240
+  },
+  "match_method": "exact normalized title and author",
+  "retrieved_at": "2026-07-18",
+  "schema": 1,
+  "source": "Open Library subject indexes (exact normalized title/author match)",
+  "subject_sources": [
+    "https://openlibrary.org/subjects/science_fiction.json?limit=1000&offset=0&details=false",
+    "https://openlibrary.org/subjects/science_fiction.json?limit=1000&offset=1000&details=false",
+    "https://openlibrary.org/subjects/science_fiction.json?limit=1000&offset=2000&details=false",
+    "https://openlibrary.org/subjects/fantasy.json?limit=1000&offset=0&details=false",
+    "https://openlibrary.org/subjects/fantasy.json?limit=1000&offset=1000&details=false",
+    "https://openlibrary.org/subjects/fantasy.json?limit=1000&offset=2000&details=false",
+    "https://openlibrary.org/subjects/romance.json?limit=1000&offset=0&details=false",
+    "https://openlibrary.org/subjects/romance.json?limit=1000&offset=1000&details=false",
+    "https://openlibrary.org/subjects/romance.json?limit=1000&offset=2000&details=false",
+    "https://openlibrary.org/subjects/mystery_and_detective_stories.json?limit=1000&offset=0&details=false",
+    "https://openlibrary.org/subjects/mystery_and_detective_stories.json?limit=1000&offset=1000&details=false",
+    "https://openlibrary.org/subjects/mystery_and_detective_stories.json?limit=1000&offset=2000&details=false",
+    "https://openlibrary.org/subjects/horror.json?limit=1000&offset=0&details=false",
+    "https://openlibrary.org/subjects/horror.json?limit=1000&offset=1000&details=false",
+    "https://openlibrary.org/subjects/horror.json?limit=1000&offset=2000&details=false",
+    "https://openlibrary.org/subjects/historical_fiction.json?limit=1000&offset=0&details=false",
+    "https://openlibrary.org/subjects/historical_fiction.json?limit=1000&offset=1000&details=false",
+    "https://openlibrary.org/subjects/historical_fiction.json?limit=1000&offset=2000&details=false",
+    "https://openlibrary.org/subjects/classic_literature.json?limit=1000&offset=0&details=false",
+    "https://openlibrary.org/subjects/classic_literature.json?limit=1000&offset=1000&details=false",
+    "https://openlibrary.org/subjects/classic_literature.json?limit=1000&offset=2000&details=false",
+    "https://openlibrary.org/subjects/juvenile_fiction.json?limit=1000&offset=0&details=false",
+    "https://openlibrary.org/subjects/juvenile_fiction.json?limit=1000&offset=1000&details=false",
+    "https://openlibrary.org/subjects/juvenile_fiction.json?limit=1000&offset=2000&details=false",
+    "https://openlibrary.org/subjects/literary_fiction.json?limit=1000&offset=0&details=false",
+    "https://openlibrary.org/subjects/literary_fiction.json?limit=1000&offset=1000&details=false",
+    "https://openlibrary.org/subjects/literary_fiction.json?limit=1000&offset=2000&details=false"
+  ]
+}
